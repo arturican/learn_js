@@ -2,12 +2,12 @@ body {
   margin: 0;
   padding: 0;
 }
-h1 {
-    height: 100vh;
+.hot {
     display: flex;
     justify-content: center;
     align-items: center;
     font-style: italic;
     font-size: 20rem;
+    background-color: aqua;
 
 }
